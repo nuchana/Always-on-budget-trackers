@@ -5,7 +5,6 @@
 * [Description](#description)
 * [Deployment](#deployment)
 * [Built With](#built-with)
-* [Contributing](#contributing)
 * [Authors](#authors)
 * [License](#license)
 
@@ -36,9 +35,6 @@ When brought back online, the offline entries should be added to tracker.
 * MongoDB
 * Mongoose
 
-## Contributing
-
-UofA starter code (starter HTML and CSS code)
 
 ## Authors
 
